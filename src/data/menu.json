@@ -1,0 +1,18 @@
+[
+    {
+      "link": "simple-map",
+      "text": "simple map",
+      "done": "true"
+    },
+    {
+      "link": "custom-marker-and-popup",
+      "text": "custom marker and popup",
+      "done": "true"
+    },
+    {
+      "link": "coordinates-of-the-visible-map",
+      "text": "coordinates of the visible map",
+      "done": "true"
+    }
+   
+  ]

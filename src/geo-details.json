@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "feature_type": "details",
+        "website": "http://www.hawthorn.com/hotels/illinois/decatur/hawthorn-suites-by-wyndham-decatur/hotel-overview",
+        "brand": "Hawthorn Suites",
+        "brand_details": {
+          "wikidata": "Q5685511",
+          "wikipedia": "en:Hawthorn Suites"
+        },
+        "name": "Hawthorn Suites",
+        "name_other": {
+          "official_name": "Hawthorn Suites by Wyndham",
+          "short_name": "Hawthorn"
+        },
+        "contact": { "phone": "217-864-9311" },
+        "facilities": { "wheelchair": true },
+        "categories": [
+          "accommodation",
+          "accommodation.hotel",
+          "building",
+          "building.accommodation",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "housenumber": "2370",
+        "street": "South Mount Zion Road",
+        "city": "Decatur",
+        "county": "Macon County",
+        "state": "Illinois",
+        "postcode": "62521",
+        "country": "United States",
+        "country_code": "us",
+        "formatted": "Hawthorn Suites, 2370 South Mount Zion Road, Decatur, IL 62521, United States of America",
+        "address_line1": "Hawthorn Suites",
+        "address_line2": "2370 South Mount Zion Road, Decatur, IL 62521, United States of America",
+        "lat": 39.81309445,
+        "lon": -88.87732142352874,
+        "place_id": "516c7efb08263856c059fb3e627a13e84340f00102f9010489292a0000000092030f48617774686f726e20537569746573"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-88.8777747, 39.8131597],
+            [-88.8777718, 39.8130181],
+            [-88.8768681, 39.8130292],
+            [-88.8768711, 39.8131707],
+            [-88.8777747, 39.8131597]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holiday Inn Express",
+        "street": "North Wingate Drive",
+        "city": "Decatur",
+        "county": "Macon County",
+        "state": "Illinois",
+        "postcode": "62535",
+        "country": "United States",
+        "country_code": "us",
+        "lon": -88.9515736,
+        "lat": 39.9114446,
+        "formatted": "Holiday Inn Express, North Wingate Drive, Decatur, IL 62535, United States of America",
+        "address_line1": "Holiday Inn Express",
+        "address_line2": "North Wingate Drive, Decatur, IL 62535, United States of America",
+        "categories": ["accommodation", "accommodation.hotel"],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "place_id": "512aeff494e63c56c059261b7737aaf44340f00103f901edf63a3c01000000920313486f6c6964617920496e6e2045787072657373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.95157359999999, 39.91144460025525]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sleep Inn",
+        "street": "Hospitality Lane",
+        "city": "Decatur",
+        "county": "Macon County",
+        "state": "Illinois",
+        "postcode": "62524",
+        "country": "United States",
+        "country_code": "us",
+        "lon": -88.896151,
+        "lat": 39.9051427,
+        "formatted": "Sleep Inn, Hospitality Lane, Decatur, IL 62524, United States of America",
+        "address_line1": "Sleep Inn",
+        "address_line2": "Hospitality Lane, Decatur, IL 62524, United States of America",
+        "categories": [
+          "accommodation",
+          "accommodation.hotel",
+          "building",
+          "building.accommodation"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "place_id": "51c651b9895a3956c05922e74bb7dbf34340f00102f901056d590e00000000920309536c65657020496e6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.896151, 39.90514270025439]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hawthorn Suites",
+        "housenumber": "2370",
+        "street": "South Mount Zion Road",
+        "city": "Decatur",
+        "county": "Macon County",
+        "state": "Illinois",
+        "postcode": "62521",
+        "country": "United States",
+        "country_code": "us",
+        "lon": -88.87732142352874,
+        "lat": 39.81309445,
+        "formatted": "Hawthorn Suites, 2370 South Mount Zion Road, Decatur, IL 62521, United States of America",
+        "address_line1": "Hawthorn Suites",
+        "address_line2": "2370 South Mount Zion Road, Decatur, IL 62521, United States of America",
+        "categories": [
+          "accommodation",
+          "accommodation.hotel",
+          "building",
+          "building.accommodation",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": ["details", "details.contact", "details.facilities"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "place_id": "516c7efb08263856c059fb3e627a13e84340f00102f9010489292a0000000092030f48617774686f726e20537569746573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.87732147750802, 39.81309442326707]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baymont by Wyndham Decatur",
+        "housenumber": "5100",
+        "street": "Hickory Point Frontage Road",
+        "city": "Decatur",
+        "county": "Macon County",
+        "state": "Illinois",
+        "postcode": "62526",
+        "country": "United States",
+        "country_code": "us",
+        "lon": -88.95087068028279,
+        "lat": 39.9098034,
+        "formatted": "Baymont by Wyndham Decatur, 5100 Hickory Point Frontage Road, Decatur, IL 62526, United States of America",
+        "address_line1": "Baymont by Wyndham Decatur",
+        "address_line2": "5100 Hickory Point Frontage Road, Decatur, IL 62526, United States of America",
+        "categories": [
+          "accommodation",
+          "accommodation.hotel",
+          "building",
+          "building.accommodation",
+          "building.commercial"
+        ],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "place_id": "511774f1f2de3c56c05928414e507af44340f00102f9013f0fa7090000000092031a4261796d6f6e742062792057796e6468616d2044656361747572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.95110772685472, 39.90998271771451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramada Limited",
+        "street": "East Hickory Point Road",
+        "city": "Decatur",
+        "county": "Macon County",
+        "state": "Illinois",
+        "postcode": "62535",
+        "country": "United States",
+        "country_code": "us",
+        "lon": -88.95340352821975,
+        "lat": 39.912665849999996,
+        "formatted": "Ramada Limited, East Hickory Point Road, Decatur, IL 62535, United States of America",
+        "address_line1": "Ramada Limited",
+        "address_line2": "East Hickory Point Road, Decatur, IL 62535, United States of America",
+        "categories": [
+          "accommodation",
+          "accommodation.hotel",
+          "building",
+          "building.accommodation"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "place_id": "51c89757f4033d56c0599ecf216bd2f44340f00102f901ae1be70d0000000092030e52616d616461204c696d69746564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.95336636117929, 39.91267146254471]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairfield Inn",
+        "street": "Hickory Point Mall",
+        "suburb": "Hickory Point Mall",
+        "city": "Forsyth",
+        "county": "Macon County",
+        "state": "Illinois",
+        "postcode": "62535",
+        "country": "United States",
+        "country_code": "us",
+        "lon": -88.957008989358,
+        "lat": 39.9156311,
+        "formatted": "Fairfield Inn, Hickory Point Mall, Forsyth, IL 62535, United States of America",
+        "address_line1": "Fairfield Inn",
+        "address_line2": "Hickory Point Mall, Forsyth, IL 62535, United States of America",
+        "categories": [
+          "accommodation",
+          "accommodation.hotel",
+          "building",
+          "building.accommodation"
+        ],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "place_id": "51955ce9a03f3d56c059fbda2e8e33f54340f00102f901bf56e70d0000000092030d466169726669656c6420496e6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.95700857915138, 39.915635846022234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Homewood Suites",
+        "street": "Hickory Point Mall",
+        "suburb": "Hickory Point Mall",
+        "city": "Forsyth",
+        "county": "Macon County",
+        "state": "Illinois",
+        "postcode": "62535",
+        "country": "United States",
+        "country_code": "us",
+        "lon": -88.96006581353487,
+        "lat": 39.9211162,
+        "formatted": "Homewood Suites, Hickory Point Mall, Forsyth, IL 62535, United States of America",
+        "address_line1": "Homewood Suites",
+        "address_line2": "Hickory Point Mall, Forsyth, IL 62535, United States of America",
+        "categories": [
+          "accommodation",
+          "accommodation.hotel",
+          "building",
+          "building.accommodation"
+        ],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "place_id": "51a40dd4b8783d56c059b426bee5e9f54340f00102f9011212e90d0000000092030f486f6d65776f6f6420537569746573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.96049328525856, 39.92120048317648]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Decatur Inn",
+        "street": "North Water Street",
+        "city": "Decatur",
+        "county": "Macon County",
+        "state": "Illinois",
+        "postcode": "62526",
+        "country": "United States",
+        "country_code": "us",
+        "lon": -88.95579284713185,
+        "lat": 39.87793355,
+        "formatted": "Decatur Inn, North Water Street, Decatur, IL 62526, United States of America",
+        "address_line1": "Decatur Inn",
+        "address_line2": "North Water Street, Decatur, IL 62526, United States of America",
+        "categories": [
+          "accommodation",
+          "accommodation.hotel",
+          "building",
+          "building.accommodation"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "place_id": "5149f3117e2b3d56c05916ddee0860f04340f00102f90163b643230000000092030b4465636174757220496e6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.95577956917727, 39.877930752403856]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunset Inn & Suites",
+        "housenumber": "100",
+        "street": "Sunset Court",
+        "city": "Clinton",
+        "county": "DeWitt County",
+        "state": "Illinois",
+        "postcode": "61727",
+        "country": "United States",
+        "country_code": "us",
+        "lon": -88.9772232,
+        "lat": 40.1410136,
+        "formatted": "Sunset Inn & Suites, 100 Sunset Court, Clinton, IL 61727, United States of America",
+        "address_line1": "Sunset Inn & Suites",
+        "address_line2": "100 Sunset Court, Clinton, IL 61727, United States of America",
+        "categories": ["accommodation", "accommodation.hotel"],
+        "details": ["details", "details.contact"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "place_id": "511e392dd38a3e56c059a3c2d0bb0c124440f00103f9010771ed910000000092031353756e73657420496e6e202620537569746573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.9772232, 40.141013600286236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Residence Inn",
+        "street": "Lucile Avenue",
+        "city": "Forsyth",
+        "county": "Macon County",
+        "state": "Illinois",
+        "postcode": "62535",
+        "country": "United States",
+        "country_code": "us",
+        "lon": -88.95225075095551,
+        "lat": 39.92007385,
+        "formatted": "Residence Inn, Lucile Avenue, Forsyth, IL 62535, United States of America",
+        "address_line1": "Residence Inn",
+        "address_line2": "Lucile Avenue, Forsyth, IL 62535, United States of America",
+        "categories": [
+          "accommodation",
+          "accommodation.hotel",
+          "building",
+          "building.accommodation"
+        ],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "place_id": "5118580856f13c56c0595bc18587c6f54340f00102f90112b2b3200000000092030d5265736964656e636520496e6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.95222998442512, 39.9201211360075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Best Western",
+        "street": "Iron Horse Place",
+        "city": "Monticello",
+        "county": "Piatt County",
+        "state": "Illinois",
+        "postcode": "61856",
+        "country": "United States",
+        "country_code": "us",
+        "lon": -88.56593836025773,
+        "lat": 40.0497996,
+        "formatted": "Best Western, Iron Horse Place, Monticello, IL 61856, United States of America",
+        "address_line1": "Best Western",
+        "address_line2": "Iron Horse Place, Monticello, IL 61856, United States of America",
+        "categories": [
+          "accommodation",
+          "accommodation.hotel",
+          "building",
+          "building.accommodation"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "place_id": "514cb2a6cd382456c059a4f006d25e064440f00102f90141a4d60f0000000092030c42657374205765737465726e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.5659669998069, 40.049768689526246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahomet Lodge",
+        "housenumber": "414",
+        "street": "East Main Street",
+        "city": "Mahomet",
+        "county": "Champaign County",
+        "state": "Illinois",
+        "postcode": "61853",
+        "country": "United States",
+        "country_code": "us",
+        "lon": -88.40280518279192,
+        "lat": 40.19507595,
+        "formatted": "Mahomet Lodge, 414 East Main Street, Mahomet, IL 61853, United States of America",
+        "address_line1": "Mahomet Lodge",
+        "address_line2": "414 East Main Street, Mahomet, IL 61853, United States of America",
+        "categories": [
+          "accommodation",
+          "accommodation.hotel",
+          "building",
+          "building.accommodation"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "place_id": "51b94a5b90c71956c059a2dd2f37f8184440f00102f901a9c74a1f0000000092030d4d61686f6d6574204c6f646765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.40280541339133, 40.19507493817515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Monroe",
+        "street": "Jefferson Street",
+        "city": "Mansfield",
+        "county": "Piatt County",
+        "state": "Illinois",
+        "postcode": "61854",
+        "country": "United States",
+        "country_code": "us",
+        "lon": -88.50511775454156,
+        "lat": 40.211865,
+        "formatted": "Hotel Monroe, Jefferson Street, Mansfield, IL 61854, United States of America",
+        "address_line1": "Hotel Monroe",
+        "address_line2": "Jefferson Street, Mansfield, IL 61854, United States of America",
+        "categories": [
+          "accommodation",
+          "accommodation.hotel",
+          "building",
+          "building.accommodation"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "place_id": "51fd4d21d4532056c0592858635a1e1b4440f00102f90157eb7d220000000092030c486f74656c204d6f6e726f65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.50511649372488, 40.21186380244063]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Country Inn & Suites",
+        "housenumber": "5150",
+        "street": "Hickory Point Frontage Road",
+        "city": "Decatur",
+        "county": "Macon County",
+        "state": "Illinois",
+        "postcode": "62526",
+        "country": "United States",
+        "country_code": "us",
+        "lon": -88.95409875,
+        "lat": 39.91165495,
+        "formatted": "Country Inn & Suites, 5150 Hickory Point Frontage Road, Decatur, IL 62526, United States of America",
+        "address_line1": "Country Inn & Suites",
+        "address_line2": "5150 Hickory Point Frontage Road, Decatur, IL 62526, United States of America",
+        "categories": [
+          "accommodation",
+          "accommodation.hotel",
+          "building",
+          "building.accommodation"
+        ],
+        "details": ["details", "details.contact"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "place_id": "51deb9eec20f3d56c059d753e8dab0f44340f00102f901aa1be70d00000000920314436f756e74727920496e6e202620537569746573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.95408700287905, 39.911647189561045]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quality Inn",
+        "street": "Highland Drive",
+        "city": "Forsyth",
+        "county": "Macon County",
+        "state": "Illinois",
+        "postcode": "62535",
+        "country": "United States",
+        "country_code": "us",
+        "lon": -88.9538360838734,
+        "lat": 39.91815115,
+        "formatted": "Quality Inn, Highland Drive, Forsyth, IL 62535, United States of America",
+        "address_line1": "Quality Inn",
+        "address_line2": "Highland Drive, Forsyth, IL 62535, United States of America",
+        "categories": [
+          "accommodation",
+          "accommodation.hotel",
+          "building",
+          "building.accommodation"
+        ],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "place_id": "5182d51ba70b3d56c0598d4f1dfa85f54340f00102f901bc56e70d0000000092030b5175616c69747920496e6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.9538362285439, 39.91815115386189]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hampton",
+        "housenumber": "1429",
+        "street": "Valerian Drive",
+        "city": "Forsyth",
+        "county": "Macon County",
+        "state": "Illinois",
+        "postcode": "62535",
+        "country": "United States",
+        "country_code": "us",
+        "lon": -88.95697090092267,
+        "lat": 39.915227099999996,
+        "formatted": "Hampton, 1429 Valerian Drive, Forsyth, IL 62535, United States of America",
+        "address_line1": "Hampton",
+        "address_line2": "1429 Valerian Drive, Forsyth, IL 62535, United States of America",
+        "categories": [
+          "accommodation",
+          "accommodation.hotel",
+          "building",
+          "building.accommodation"
+        ],
+        "details": ["details"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database Licence",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "place_id": "51a83a3e203f3d56c059fad1d02926f54340f00102f901be56e70d0000000092030748616d70746f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.95697790219367, 39.915227152789114]
+      }
+    }
+  ]
+}
